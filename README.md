@@ -34,6 +34,8 @@ Data Normalization: Built a modular system to parse complex, nested API response
 
 Database Validation: Created testing scripts to verify table existence and data counts, ensuring pipeline reliability and successful data ingestion.
 
+https://github.com/kadengrumbles73/cse199r/tree/main/NFL%20ESPN%20CLONE
+
 Financial Burn Rate & Subscription Tracker
 Description: A specialized data tool and database system designed to monitor recurring financial commitments and calculate real-time burn rate metrics.
 
